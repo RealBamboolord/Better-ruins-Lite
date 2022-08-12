@@ -1,9 +1,9 @@
 [
-{		
+/*{		
 "name": "Ancient ruins",		
 "terrainsCanBeBuiltOn": ["Land", "Water"],		
 "uniques": ["Unpillagable", "Provides a random bonus when entered", "Unbuildable"]	
-},	
+},	*/
 {		
 "name": "City ruins",		
 "terrainsCanBeBuiltOn": ["Land", "Lakes"],
