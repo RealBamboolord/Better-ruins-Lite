@@ -4,7 +4,7 @@
 		"culture":1,
                 "faith":1,
                 "happiness":1,
-		"greatPersonPoints": {"Great Archaeologist":3},
+		"greatPersonPoints": {"Great Archaeologist":6},
 		"color": [105,98,95]
 	},
 ]
