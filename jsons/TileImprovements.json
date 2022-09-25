@@ -1,7 +1,8 @@
 [
 {		
 "name": "Alien ruins",		
-"terrainsCanBeBuiltOn": ["Land", "Water"],		
+"terrainsCanBeBuiltOn": ["Land", "Water"],
+"culture": 1,		
 "uniques": ["Unpillagable", "Provides a random bonus when entered"]	
 },
 {		
