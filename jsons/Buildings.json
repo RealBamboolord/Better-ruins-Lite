@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Archaeology Center",
+    "cost": 50,
+		"specialistSlots": {"Historician": 3},
+    "science": 1,
+    "uniques": [
+      "Hidden until [2] social policy branches have been completed"
+      ]
+  }
+  ]
