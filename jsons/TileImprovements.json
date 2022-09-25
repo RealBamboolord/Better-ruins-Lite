@@ -1,17 +1,16 @@
 [
-/*{		
-"name": "Ancient ruins",		
+{		
+"name": "Alien ruins",		
 "terrainsCanBeBuiltOn": ["Land", "Water"],		
 "uniques": ["Unpillagable", "Provides a random bonus when entered", "Unbuildable"]	
-},	*/
+},
 {		
 "name": "City ruins",		
 "terrainsCanBeBuiltOn": ["Land", "Lakes"],
-//"culture": 1,
-//"faith": 1,
-//"gold": -1,
+"culture": 1,
+"faith": 1,
+"gold": 1,
 "uniques": ["Unpillagable", 
-"Provides a random bonus when entered", 
 "Unbuildable"
 //"[+1 Gold] from [Fresh water] tiles <after discovering [Civil Service]>",
 //"[+1 Science] <after discovering [Archaeology]>" 
