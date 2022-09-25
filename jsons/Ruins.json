@@ -63,12 +63,12 @@
 "weight": 3
 "uniques": ["This Unit upgrades for free including special upgrades", "This Unit gains [10] XP"] 
 }, 
-/*{ 
+{ 
 "name": "reveal nearby Barbarian camps", 
 "notification": "You find evidence of Barbarian activity. Nearby Barbarian camps are revealed!", 
 "weight": 2
 "uniques": ["Reveal up to [All] [Barbarian encampment] within a [100] tile radius"] 
-}, */
+},
 { 
 "name": "find a crudely-drawn map", 
 "notification": "We have found a crudely-drawn map in the ruins!", 
